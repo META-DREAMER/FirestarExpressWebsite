@@ -1,0 +1,10 @@
+.centered-logo .logo {
+    max-height: 60px;
+}
+
+.pricing-table .price {
+    padding: 30px 0px;
+}
+.pricing-table .price .amount {
+    font-size: 30px;
+}
