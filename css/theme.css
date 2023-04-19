@@ -1668,6 +1668,9 @@ img.phone-portrait {
 .pricing-table .features li strong {
   font-weight: 600;
 }
+.pricing-table .features li h3 {
+  color: #fff;
+}
 .pricing-table.emphasis {
   background-color: #e74c3c;
 }
